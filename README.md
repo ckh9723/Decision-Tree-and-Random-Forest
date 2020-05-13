@@ -1,5 +1,5 @@
 # Decision-Tree-and-Random-Forest
-A personal side project for coding decision tree and random forest algorithm using Python.  
+A personal side project for self-coding decision tree and random forest algorithm using Python.  
     
 **Nodes.py:** Class file for 'Node' and 'Leaf' object.  
 **Question.py** Class file for 'Question' object.  
