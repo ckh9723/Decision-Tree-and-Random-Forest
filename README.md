@@ -1,5 +1,5 @@
 # Decision-Tree-and-Random-Forest
-A personal side project for self-coding decision tree and random forest algorithm using Python.    
+A personal side project for coding decision tree and random forest algorithm from scratch using Python.    
   
   
 ## **Python Files:**  
